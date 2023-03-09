@@ -4,3 +4,4 @@ kazkas
 
 ## Local Dev
 Vis dar stipriai kazkas
+Tikrai taip
